@@ -33,4 +33,3 @@ steps:
     packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.jar'
     RuntimeStack: 'JAVA|11-java11'
     StartupCommand: 'java -jar target/*.jar'
-    AppSettings: '--server.port=80'
