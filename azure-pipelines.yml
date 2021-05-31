@@ -32,4 +32,3 @@ steps:
     SlotName: 'production'
     packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.jar'
     RuntimeStack: 'JAVA|11-java11'
-    StartupCommand: 'java -jar target/*.jar'
