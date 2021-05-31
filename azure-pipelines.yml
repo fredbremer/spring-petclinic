@@ -26,7 +26,7 @@ steps:
     ConnectionType: 'AzureRM'
     azureSubscription: 'vg-DVP-kolatest-Innovation-rg'
     appType: 'webAppLinux'
-    WebAppName: 'test-pamdoc'
+    WebAppName: 'fbhack2'
     deployToSlotOrASE: true
     ResourceGroupName: 'vg-DVP-kolatest-Innovation-rg'
     SlotName: 'production'
